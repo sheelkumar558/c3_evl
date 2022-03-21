@@ -1,0 +1,25 @@
+{
+  "name": "c3_evl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheelkumar558/c3_evl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sheelkumar558/c3_evl/issues"
+  },
+  "homepage": "https://github.com/sheelkumar558/c3_evl#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.7",
+    "nodemon": "^2.0.15"
+  }
+}
